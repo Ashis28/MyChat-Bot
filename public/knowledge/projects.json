@@ -1,0 +1,166 @@
+{
+  "projects": [
+    {
+      "id": "medflow",
+      "name": "MedFlow",
+      "category": "Backend Development",
+      "status": "Completed",
+
+      "description": "A scalable pharmacy management backend built using Spring Boot Microservices architecture. The project demonstrates secure authentication, service communication and modular backend design.",
+
+      "problem_solved": "Designed to simulate a real-world pharmacy management system by separating business functionalities into independent microservices for better scalability and maintainability.",
+
+      "tech_stack": [
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "Spring Cloud",
+        "Microservices",
+        "REST APIs",
+        "MySQL",
+        "Docker",
+        "Git"
+      ],
+
+      "features": [
+        "Microservices architecture",
+        "RESTful APIs",
+        "JWT Authentication",
+        "Role Based Authorization",
+        "Service Communication",
+        "Centralized Configuration",
+        "Secure Backend Design"
+      ],
+
+      "architecture": [
+        "API Gateway",
+        "Authentication Service",
+        "Independent Microservices",
+        "Database per Service",
+        "REST Communication"
+      ],
+
+      "my_role": "Designed and developed the complete backend architecture, implemented authentication, built REST APIs and configured the microservices ecosystem.",
+
+      "highlights": [
+        "Built using production-style backend architecture.",
+        "Focused on scalability and modular design.",
+        "Applied Spring Security for authentication and authorization."
+      ],
+
+      "github": "",
+      "live_demo": "",
+      "future_improvements": [
+        "Deploy all services using Kubernetes",
+        "Add monitoring with Prometheus and Grafana",
+        "Integrate CI/CD pipeline"
+      ]
+    },
+
+    {
+      "id": "malaria-detection",
+      "name": "Malaria Cell Detection using CNN",
+      "category": "Artificial Intelligence",
+      "status": "Completed",
+
+      "description": "A deep learning project that classifies malaria infected and uninfected blood cell images using Convolutional Neural Networks.",
+
+      "problem_solved": "Automates malaria cell classification to demonstrate how deep learning can assist medical image analysis.",
+
+      "tech_stack": [
+        "Python",
+        "TensorFlow",
+        "Keras",
+        "CNN",
+        "OpenCV",
+        "NumPy",
+        "Matplotlib"
+      ],
+
+      "features": [
+        "Image preprocessing",
+        "CNN model training",
+        "Model evaluation",
+        "Prediction on unseen images",
+        "Visualization of training metrics"
+      ],
+
+      "architecture": [
+        "Image Dataset",
+        "Preprocessing Pipeline",
+        "CNN Model",
+        "Training",
+        "Prediction"
+      ],
+
+      "my_role": "Implemented the complete machine learning pipeline including preprocessing, model development, training, evaluation and prediction.",
+
+      "highlights": [
+        "Applied deep learning to a healthcare dataset.",
+        "Built an end-to-end image classification pipeline.",
+        "Optimized the CNN for improved prediction performance."
+      ],
+
+      "github": "",
+      "live_demo": "",
+      "future_improvements": [
+        "Deploy as a web application",
+        "Experiment with transfer learning",
+        "Compare multiple CNN architectures"
+      ]
+    },
+
+    {
+      "id": "portfolio-ai",
+      "name": "AI Powered Portfolio Website",
+      "category": "Full Stack AI",
+      "status": "Completed",
+
+      "description": "A modern Angular portfolio integrated with an AI assistant capable of answering questions about skills, projects, experience and education using Gemini and a Cloudflare Worker backend.",
+
+      "problem_solved": "Instead of static portfolio pages, visitors can naturally interact with an AI assistant to explore professional information.",
+
+      "tech_stack": [
+        "Angular",
+        "TypeScript",
+        "Cloudflare Workers",
+        "Gemini API",
+        "HTML",
+        "CSS"
+      ],
+
+      "features": [
+        "Interactive AI chatbot",
+        "Portfolio knowledge base",
+        "Cloudflare backend",
+        "Gemini integration",
+        "Responsive UI"
+      ],
+
+      "architecture": [
+        "Angular Frontend",
+        "Chat Service",
+        "Cloudflare Worker",
+        "Knowledge Base",
+        "Gemini API"
+      ],
+
+      "my_role": "Designed and developed the frontend, backend integration, AI knowledge system and chatbot experience.",
+
+      "highlights": [
+        "Built a custom AI portfolio assistant.",
+        "Separated frontend from AI backend.",
+        "Implemented knowledge-driven responses."
+      ],
+
+      "github": "",
+      "live_demo": "",
+      "future_improvements": [
+        "Conversation memory",
+        "Streaming AI responses",
+        "RAG based document retrieval",
+        "Analytics dashboard"
+      ]
+    }
+  ]
+}

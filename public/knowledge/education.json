@@ -1,0 +1,15 @@
+{
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "degree": "B.Tech In Computer Science",
+      "field": "Computer Science And Engeneering",
+      "status": "PassedOut",
+      "start_year": "2022",
+      "expected_graduation": "2026",
+      "cgpa": "8.47",
+      "location": "Punjab,India",
+      "key_learning": ["DSA","Problem Solving","Communication"]
+    }
+  ]
+}

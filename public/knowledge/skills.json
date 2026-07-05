@@ -1,0 +1,39 @@
+{
+  "languages": [
+    "Java",
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "C++"
+  ],
+
+  "frontend": [
+    "Angular",
+    "HTML",
+    "CSS"
+  ],
+
+  "backend": [
+    "Spring Boot",
+    "Spring Security",
+    "REST APIs",
+    "Microservices"
+  ],
+
+  "database": [
+    "MySQL"
+  ],
+
+  "cloud_devops": [
+    "Docker",
+    "Git",
+    "GitHub"
+  ],
+
+  "ai_ml": [
+    "TensorFlow",
+    "OpenCV",
+    "CNN",
+    "NLP"
+  ]
+}

@@ -1,0 +1,66 @@
+
+{
+  "experiences": [
+    {
+      "id": "terafac-ai-internship",
+
+      "company": "Terafac Technologies Pvt. Ltd.",
+
+      "role": "AI & Computer Vision Intern",
+
+      "employment_type": "Internship",
+
+      "status": "Completed",
+
+      "duration": {
+        "start": "",
+        "end": "",
+        "total": ""
+      },
+
+      "location": "India",
+
+      "mode": "InOffice",
+
+      "summary": "Worked on Artificial Intelligence and Computer Vision solutions for industrial automation and robotics applications.",
+
+      "responsibilities": [
+        "Developed Computer Vision based solutions.",
+        "Worked on AI-powered industrial automation tasks.",
+        "Implemented image processing techniques.",
+        "Collaborated on robotics-related AI applications.",
+        "Participated in model development and testing."
+      ],
+
+      "technologies": [
+        "Python",
+        "OpenCV",
+        "TensorFlow",
+        "Computer Vision",
+        "Deep Learning",
+        "Machine Learning"
+      ],
+
+      "skills_gained": [
+        "Computer Vision",
+        "Image Processing",
+        "Deep Learning",
+        "Industrial AI",
+        "Problem Solving",
+        "Model Development"
+      ],
+
+      "key_highlights": [
+        "Applied AI concepts to real-world industrial problems.",
+        "Worked with Computer Vision pipelines.",
+        "Gained practical experience building AI solutions."
+      ],
+
+      "achievements": [],
+
+      "mentor_feedback": "",
+
+      "certificate_available": true
+    }
+  ]
+}
